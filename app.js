@@ -1,7 +1,7 @@
 let pagina = 1;
 let peliculasHTML = "";
 let ultimaPelicula = null;
-const API_KEY = "7502d725a078c6fb1eda839fdc3a33a0";
+const API_KEY = "TU_API_KEY_AQUI";
 const API_URL = `https://api.themoviedb.org/3/movie/popular`;
 
 let observador = new IntersectionObserver(
