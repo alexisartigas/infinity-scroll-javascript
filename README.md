@@ -20,9 +20,9 @@ Este proyecto fue desarrollado con el objetivo de consumir una API REST y mostra
     ```bash
     git clone https://github.com/alexisartigas/infinity-scroll-javascript.git
     ```
-2. ** Registrate en themoviedb.org y obtén tu API Key:**
+2. **Registrate en themoviedb.org y obtén tu API Key:**
     - [themoviedb.org](https://www.themoviedb.org/)
-3. ** Editar el API_KEY en el archivo `app.js`:**
+3. **Editar el API_KEY en el archivo `app.js`:**
     - Navegue hasta el directorio del proyecto.
     - Abra el archivo `app.js` y reemplace `API_KEY` con su propia clave de API.
     ```javascript
