@@ -1,18 +1,24 @@
-# SCROLL INFINITO CON CONSUMO DE APIREST
-#
-# Este projeto foi desenvolvido com o intuito de consumir uma API REST e exibir os dados em uma página web com scroll infinito.
+## Scroll Infinito con Consumo de API REST
+Este proyecto fue desarrollado con el objetivo de consumir una API REST y mostrar los datos en una página web con scroll infinito. Usando intersection Observer para detectar cuando el usuario llega al final de la página y así cargar más datos. 
 
-# ## Tecnologias utilizadas
-# - HTML
-# - CSS
-# - JavaScript
-# - API REST
+### Portada
 
-# ## Como executar
-# - Clone o repositório
-# - Abra el archivo index.html en su navegador
-# - ¡Listo!
+![Portada](portada.png)
+---
 
-# ## Autor
-# - [Alexis Artigas](https://www.linkedin.com/in/alexis-artigas-3b8855ab/)
+### Tecnologías Utilizadas
 
+- HTML
+- CSS
+- JavaScript
+- API REST
+
+### Como executar
+ 1- Clone o repositório
+ 2- Abra el archivo index.html en su navegador
+ 3- ¡Listo!
+
+---
+
+#### Autor
+ - [Alexis Artigas](https://www.linkedin.com/in/alexis-artigas-3b8855ab/)
