@@ -13,10 +13,22 @@ Este proyecto fue desarrollado con el objetivo de consumir una API REST y mostra
 - JavaScript
 - API REST
 
-### Como executar
- 1- Clone o repositório
- 2- Abra el archivo index.html en su navegador
- 3- ¡Listo!
+### Cómo Ejecutar
+
+1. **Clone el Repositorio:**
+
+    ```bash
+    git clone https://github.com/alexisartigas/infinity-scroll-javascript.git
+    ```
+
+2. **Abra el Archivo `index.html`:**
+   - Navegue hasta el directorio del proyecto.
+   - Abra el archivo `index.html` en su navegador web preferido.
+
+3. **¡Listo!**
+   - Después de abrir el archivo `index.html`, debería tener acceso a la aplicación y poder explorarla.
+
+¡Listo para disfrutar del proyecto! Si encuentras algún problema durante la ejecución, asegúrate de revisar los detalles en el archivo README o la consola del navegador para obtener posibles mensajes de error. ¡Diviértete explorando!
 
 ---
 
