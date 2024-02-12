@@ -1,9 +1,10 @@
 ## Scroll Infinito con Consumo de API REST
 Este proyecto fue desarrollado con el objetivo de consumir una API REST y mostrar los datos en una página web con scroll infinito. Usando intersection Observer para detectar cuando el usuario llega al final de la página y así cargar más datos. 
 
-### Portada
+### Portada y Pen
 
 ![Portada](portada.png)
+- [Ver en CodePen](https://codepen.io/alexisartigas/pen/ExWzZzg)
 ---
 
 ### Tecnologías Utilizadas
