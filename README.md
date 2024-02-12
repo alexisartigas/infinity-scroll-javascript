@@ -4,7 +4,7 @@ Este proyecto fue desarrollado con el objetivo de consumir una API REST y mostra
 ### Portada y Pen
 
 ![Portada](portada.png)
-- [Ver en CodePen](https://codepen.io/alexisartigas/pen/ExWzZzg)
+- [Ver en CodePen](https://codepen.io/alexis-almig-artigas/pen/ExMOYQK)
 ---
 
 ### Tecnologías Utilizadas
